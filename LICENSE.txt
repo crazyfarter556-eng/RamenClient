@@ -1,0 +1,129 @@
+Ramen Client Custom License
+Copyright (c) 2026 Ramen Dev
+
+1. Definitions
+For the purposes of this License:
+
+"Software" means the Ramen Client source code, binaries, assets, documentation, and associated files distributed by Ramen Dev.
+"Ramen Dev" means the original creator and copyright holder of the Ramen Client.
+"Derivative Work" means any modified version, fork, adaptation, or project substantially based on the Software.
+"Commercial Distribution" means distributing, selling, licensing, or otherwise providing the Software or a Derivative Work in exchange for money or other monetary compensation.
+"Net Revenue" means the money actually received from Commercial Distribution after mandatory payment-processing fees, refunds, and applicable sales taxes or VAT have been deducted.
+2. Permission to Use
+Permission is granted to any person obtaining a copy of the Software to:
+
+Use the Software for personal purposes.
+Study and inspect the source code.
+Copy the Software.
+Modify the Software.
+Create Derivative Works.
+Create forks of the Software.
+Distribute the Software or Derivative Works free of charge.
+Publish modifications and Derivative Works, subject to the conditions of this License.
+3. Commercial Distribution
+Commercial Distribution of the Software or a Derivative Work is permitted only under the conditions specified in this License.
+
+If a person or organization commercially distributes the Software or a Derivative Work, 70% of the Net Revenue generated from that Commercial Distribution shall be owed to Ramen Dev, while the distributor may retain the remaining 30%.
+
+Commercial Distribution includes, but is not limited to:
+
+Selling the Software.
+Selling a modified version or fork of the Software.
+Selling access to a service substantially based on the Software.
+Including the Software or a substantial portion of it in a paid product.
+Charging money for downloads, licenses, subscriptions, or access to a Derivative Work.
+No person or organization may commercially distribute the Software or a Derivative Work while avoiding the 70% revenue-sharing requirement.
+
+4. Free Distribution
+Free distribution is permitted.
+
+A person may share, publish, fork, modify, or redistribute the Software or a Derivative Work without paying royalties to Ramen Dev, provided that no money or other monetary compensation is received in connection with that distribution.
+
+5. Payment and Reporting
+Any person or organization that commercially distributes the Software or a Derivative Work must comply with the following payment and reporting requirements.
+
+5.1 Revenue Share
+The distributor shall pay 70% of the Net Revenue generated from Commercial Distribution to Ramen Dev.
+
+The distributor may retain the remaining 30% of the Net Revenue.
+
+5.2 Reporting Period
+Commercial revenue must be reported to Ramen Dev on a monthly basis.
+
+A report must be provided for each calendar month in which the Software or a Derivative Work generates commercial revenue.
+
+The report must include, at minimum:
+
+Total gross revenue received.
+Applicable refunds.
+Payment-processing fees.
+Applicable sales taxes or VAT.
+Resulting Net Revenue.
+The amount owed to Ramen Dev.
+The amount retained by the distributor.
+The number of units, licenses, subscriptions, or other paid transactions.
+5.3 Payment Deadline
+The amount owed to Ramen Dev must be paid within 15 calendar days after the end of each calendar month in which commercial revenue was generated.
+
+For example, revenue generated during January must be reported and the corresponding payment must be made no later than February 15.
+
+5.4 Payment Method
+Payments shall be made using a payment method agreed upon by Ramen Dev and the distributor.
+
+The distributor is responsible for providing accurate payment and contact information necessary to complete the payment.
+
+5.5 Records
+The distributor must maintain reasonable records of Commercial Distribution and Net Revenue for at least two (2) years after the relevant transaction.
+
+Ramen Dev may request reasonable documentation necessary to verify the reported Net Revenue and the amount owed under this License.
+
+Such requests must be reasonably related to verifying compliance with the 70% revenue-sharing requirement.
+
+5.6 Failure to Pay or Report
+Failure to provide the required report or payment within the periods specified in this section constitutes a violation of this License.
+
+If the violation is not corrected within a reasonable period after written notice from Ramen Dev, the permissions granted by this License may terminate as described in Section 9.
+
+6. Copyright and Attribution
+The following copyright notice must remain included in all copies or substantial portions of the Software:
+
+Copyright (c) 2026 Ramen Dev
+
+The name Ramen Client and the identity of Ramen Dev must not be falsely represented as belonging to another creator.
+
+7. Modifications
+Modifications and Derivative Works are permitted.
+
+Creators of modified versions may add their own code, features, branding, and copyright notices.
+
+However, the original Ramen Client copyright notice and this License must remain included where applicable.
+
+Creators must not remove or deliberately obscure the original copyright notice.
+
+8. No Endorsement
+Use of the Software does not grant permission to claim that Ramen Dev officially endorses, sponsors, or supports a Derivative Work unless explicit written permission has been granted.
+
+9. License Compliance
+By using, modifying, or distributing the Software, you agree to comply with the terms of this License.
+
+Failure to comply with the terms of this License terminates the permissions granted by this License.
+
+Any rights that cannot legally be terminated remain subject to applicable law.
+
+Termination of the license does not eliminate payment obligations or other obligations that arose before termination.
+
+10. Changes to the License
+Ramen Dev may release future versions of this License for future versions of the Software.
+
+Each released version of the Ramen Client may specify the License version applicable to that release.
+
+Changes to this License do not automatically modify the terms applicable to previously distributed versions unless explicitly stated.
+
+11. Governing Law
+This License shall be interpreted in accordance with applicable law.
+
+If any provision of this License is found to be unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by law.
+
+Ramen Client Copyright © 2026 Ramen Dev
+
+All rights reserved except as expressly permitted by this License.
